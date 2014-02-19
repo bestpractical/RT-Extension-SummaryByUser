@@ -8,6 +8,10 @@ DESCRIPTION
     RequestorSummary portlet displays summary by requestors' organization.
     Read more about this below in "CONFIGURATION" section.
 
+VERSION
+    This module works on RT 3.8 with patches (see below) or on RT 4.0. It is
+    not currently compatible with RT 4.2.
+
 INSTALLATION
     Installation goes as usual for RT extensions, but for older RT versions
     you have to apply patches. For more correct results and work without

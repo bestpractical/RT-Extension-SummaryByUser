@@ -18,6 +18,11 @@ not only by user, but by users' organization or other fields. For example
 RequestorSummary portlet displays summary by requestors' organization.
 Read more about this below in L</CONFIGURATION> section.
 
+=head1 VERSION
+
+This module works on RT 3.8 with patches (see below) or on RT 4.0.
+It is not currently compatible with RT 4.2.
+
 =head1 INSTALLATION
 
 Installation goes as usual for RT extensions, but for older RT versions
