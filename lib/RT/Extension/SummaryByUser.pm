@@ -4,7 +4,7 @@ use 5.008003;
 use strict;
 use warnings;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 =head1 NAME
 
@@ -65,7 +65,8 @@ portlet in C<$HomepageComponents>, restart server and use new portlet.
 
 =head1 AUTHOR
 
-Ruslan Zakirov E<lt>Ruslan.Zakirov@gmail.comE<gt>
+    Ruslan Zakirov <Ruslan.Zakirov@gmail.com>
+    Kevin Falcone <falcone@bestpractical.com>
 
 =head1 LICENSE
 
